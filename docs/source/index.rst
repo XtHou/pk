@@ -1,7 +1,7 @@
 Welcome to Portkey's Documentation!
 ===================================
 
-**Portkey** (/lu'make/) is an all-in-one wallet designed for assets on aelf blockchain.
+**Portkey** is an all-in-one wallet designed for assets on aelf blockchain.
 
 .. note::
 
