@@ -17,6 +17,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Introduction
 
-   usage
-   api
+   Introduction <Introduction/introduction>
+
