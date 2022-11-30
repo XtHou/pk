@@ -14,4 +14,13 @@ This project is under active development and may integrate with other blockchain
    :caption: Introduction
 
    Introduction <Introduction/introduction>
+   
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Help Center
+
+   Create New Address <Help-Center/new-addr/index>
+   Import Existing Address <Help-Center/existing-addr/index>
+
 
