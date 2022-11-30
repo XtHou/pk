@@ -9,9 +9,6 @@ This project is under active development and may integrate with other blockchain
 
 
 
-Contents
---------
-
 .. toctree::
    :maxdepth: 1
    :caption: Introduction
